@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Dot&#39;s Funk Odyssey</title>
+    <link>/pages/</link>
+    <description>Recent content in Pages on Dot&#39;s Funk Odyssey</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <lastBuildDate>Sun, 03 Nov 2019 16:24:54 +0000</lastBuildDate>
+    
+	<atom:link href="/pages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Meet the Band</title>
+      <link>/pages/meet-the-band/</link>
+      <pubDate>Sun, 03 Nov 2019 16:24:54 +0000</pubDate>
+      
+      <guid>/pages/meet-the-band/</guid>
+      <description>               Ned Harry James        Willy the Whale Hugh Will Young        Uwa Katie Harrie        Georgia Ned Ned    </description>
+    </item>
+    
+  </channel>
+</rss>

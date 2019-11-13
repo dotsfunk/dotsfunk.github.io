@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Galleries on Dot&#39;s Funk Odyssey</title>
+    <link>/gallery/</link>
+    <description>Recent content in Galleries on Dot&#39;s Funk Odyssey</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <lastBuildDate>Sat, 04 Aug 2018 18:58:53 +0100</lastBuildDate>
+    
+	<atom:link href="/gallery/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Univ Ball</title>
+      <link>/gallery/univ/</link>
+      <pubDate>Sat, 04 Aug 2018 18:58:53 +0100</pubDate>
+      
+      <guid>/gallery/univ/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oxford Women in Business</title>
+      <link>/gallery/oxwib/</link>
+      <pubDate>Sat, 04 Aug 2018 18:55:09 +0100</pubDate>
+      
+      <guid>/gallery/oxwib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meet The band</title>
+      <link>/gallery/theband/</link>
+      <pubDate>Fri, 03 Nov 2017 16:59:51 +0000</pubDate>
+      
+      <guid>/gallery/theband/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

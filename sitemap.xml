@@ -1,0 +1,42 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    <url>
+      <loc>/</loc>
+      <lastmod>2019-11-03T16:24:54+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+      <loc>/pages/meet-the-band/</loc>
+      <lastmod>2019-11-03T16:24:54+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>/pages/</loc>
+      <lastmod>2019-11-03T16:24:54+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+      <loc>/blog_old/</loc>
+      <lastmod>2018-08-04T18:31:17+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+      <loc>/blog_old/new-website/</loc>
+      <lastmod>2018-08-04T18:31:17+01:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>/about/</loc>
+      <lastmod>2018-08-04T18:27:49+01:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>/blog_old/test/</loc>
+      <lastmod>2018-08-04T18:11:24+01:00</lastmod>
+    </url>
+  
+</urlset>

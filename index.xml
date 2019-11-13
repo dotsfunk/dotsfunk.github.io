@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dot&#39;s Funk Odyssey</title>
+    <link>/</link>
+    <description>Recent content on Dot&#39;s Funk Odyssey</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <lastBuildDate>Sun, 03 Nov 2019 16:24:54 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Meet the Band</title>
+      <link>/pages/meet-the-band/</link>
+      <pubDate>Sun, 03 Nov 2019 16:24:54 +0000</pubDate>
+      
+      <guid>/pages/meet-the-band/</guid>
+      <description>               Ned Harry James        Willy the Whale Hugh Will Young        Uwa Katie Harrie        Georgia Ned Ned    </description>
+    </item>
+    
+    <item>
+      <title>Univ Ball</title>
+      <link>/gallery/univ/</link>
+      <pubDate>Sat, 04 Aug 2018 18:58:53 +0100</pubDate>
+      
+      <guid>/gallery/univ/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oxford Women in Business</title>
+      <link>/gallery/oxwib/</link>
+      <pubDate>Sat, 04 Aug 2018 18:55:09 +0100</pubDate>
+      
+      <guid>/gallery/oxwib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Website</title>
+      <link>/blog_old/new-website/</link>
+      <pubDate>Sat, 04 Aug 2018 18:31:17 +0100</pubDate>
+      
+      <guid>/blog_old/new-website/</guid>
+      <description>It was a long time ago that I was asked to make a website for DFO. I hate making websites and I never want to do this again
+James</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Sat, 04 Aug 2018 18:27:49 +0100</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Welcome to the DFO Website! We are DFO and we are here to tell you that we funk for money! Dot&amp;rsquo;s Funk Odyssey (DFO to our friends) are a 14 piece funk band based in Oxford, UK. We love to perform, and we&amp;rsquo;re ideal for getting audiences dancing, wiggling and having a good time!
+We play at many types of event, including balls, charity gigs, festivals and private functions. Playing everything from Stevie Wonder to Cee-Lo Green and from Aretha Franklin to Chaka Khan and Mark Ronson, our constantly updated set lists are guaranteed to be packed with songs that audiences just love to dance to.</description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>/blog_old/test/</link>
+      <pubDate>Sat, 04 Aug 2018 18:11:24 +0100</pubDate>
+      
+      <guid>/blog_old/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meet The band</title>
+      <link>/gallery/theband/</link>
+      <pubDate>Fri, 03 Nov 2017 16:59:51 +0000</pubDate>
+      
+      <guid>/gallery/theband/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
